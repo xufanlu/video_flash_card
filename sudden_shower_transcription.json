@@ -1,0 +1,1157 @@
+{
+  "language": "ko",
+  "language_probability": 0.997499406337738,
+  "source": "sudden_shower.mp4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "이번 곡은 저희 데뷔곡인데요",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.12,
+          "word": " 이번"
+        },
+        {
+          "start": 0.12,
+          "end": 0.66,
+          "word": " 곡은"
+        },
+        {
+          "start": 0.66,
+          "end": 2.22,
+          "word": " 저희"
+        },
+        {
+          "start": 2.22,
+          "end": 2.9,
+          "word": " 데뷔곡인데요"
+        }
+      ],
+      "english": "This is our debut song"
+    },
+    {
+      "start": 5.0,
+      "end": 7.62,
+      "text": "정말 오랜만에 라이브 하는 것 같아요",
+      "words": [
+        {
+          "start": 4.46,
+          "end": 5.16,
+          "word": " 정말"
+        },
+        {
+          "start": 5.16,
+          "end": 6.88,
+          "word": " 오랜만에"
+        },
+        {
+          "start": 6.88,
+          "end": 7.12,
+          "word": " 라이브"
+        },
+        {
+          "start": 7.12,
+          "end": 7.3,
+          "word": " 하는"
+        },
+        {
+          "start": 7.3,
+          "end": 7.46,
+          "word": " 것"
+        },
+        {
+          "start": 7.46,
+          "end": 7.62,
+          "word": " 같아요"
+        }
+      ],
+      "english": "It feels like it's been a long time since we did a live"
+    },
+    {
+      "start": 16.0,
+      "end": 20.64,
+      "text": "그치지 않기를 바랬죠",
+      "words": [
+        {
+          "start": 16.0,
+          "end": 16.78,
+          "word": " 그치지"
+        },
+        {
+          "start": 16.78,
+          "end": 17.9,
+          "word": " 않기를"
+        },
+        {
+          "start": 17.9,
+          "end": 20.64,
+          "word": " 바랬죠"
+        }
+      ],
+      "english": "I hoped it wouldn't end"
+    },
+    {
+      "start": 22.0,
+      "end": 26.66,
+      "text": "처음 그대 내게로 오던 그날에",
+      "words": [
+        {
+          "start": 21.64,
+          "end": 22.34,
+          "word": " 처음"
+        },
+        {
+          "start": 22.34,
+          "end": 23.2,
+          "word": " 그대"
+        },
+        {
+          "start": 23.2,
+          "end": 24.58,
+          "word": " 내게로"
+        },
+        {
+          "start": 24.58,
+          "end": 25.32,
+          "word": " 오던"
+        },
+        {
+          "start": 25.32,
+          "end": 26.66,
+          "word": " 그날에"
+        }
+      ],
+      "english": "On the day you first came to me"
+    },
+    {
+      "start": 28.1,
+      "end": 35.78,
+      "text": "잠시 동안 적시는 그런 비가 아니길",
+      "words": [
+        {
+          "start": 28.1,
+          "end": 29.5,
+          "word": " 잠시"
+        },
+        {
+          "start": 29.5,
+          "end": 30.18,
+          "word": " 동안"
+        },
+        {
+          "start": 30.18,
+          "end": 31.96,
+          "word": " 적시는"
+        },
+        {
+          "start": 31.96,
+          "end": 32.96,
+          "word": " 그런"
+        },
+        {
+          "start": 32.96,
+          "end": 33.76,
+          "word": " 비가"
+        },
+        {
+          "start": 33.76,
+          "end": 35.78,
+          "word": " 아니길"
+        }
+      ],
+      "english": "On the day you first came to me"
+    },
+    {
+      "start": 35.78,
+      "end": 40.42,
+      "text": "간절히 난 바래왔었죠",
+      "words": [
+        {
+          "start": 35.78,
+          "end": 37.7,
+          "word": " 간절히"
+        },
+        {
+          "start": 37.7,
+          "end": 38.08,
+          "word": " 난"
+        },
+        {
+          "start": 38.08,
+          "end": 40.42,
+          "word": " 바래왔었죠"
+        }
+      ],
+      "english": "I hope it's not a rain that gets wet for a while"
+    },
+    {
+      "start": 41.66,
+      "end": 44.52,
+      "text": "그대도 늘 맘 아나요",
+      "words": [
+        {
+          "start": 41.66,
+          "end": 43.18,
+          "word": " 그대도"
+        },
+        {
+          "start": 43.18,
+          "end": 43.4,
+          "word": " 늘"
+        },
+        {
+          "start": 43.4,
+          "end": 43.86,
+          "word": " 맘"
+        },
+        {
+          "start": 43.86,
+          "end": 44.52,
+          "word": " 아나요"
+        }
+      ],
+      "english": "I've been desperately hoping"
+    },
+    {
+      "start": 44.52,
+      "end": 50.14,
+      "text": "매일 그대만 그려왔던 나를",
+      "words": [
+        {
+          "start": 44.52,
+          "end": 45.8,
+          "word": " 매일"
+        },
+        {
+          "start": 45.8,
+          "end": 46.94,
+          "word": " 그대만"
+        },
+        {
+          "start": 46.94,
+          "end": 48.82,
+          "word": " 그려왔던"
+        },
+        {
+          "start": 48.82,
+          "end": 50.14,
+          "word": " 나를"
+        }
+      ],
+      "english": "Do you know how much today is?"
+    },
+    {
+      "start": 50.14,
+      "end": 54.24,
+      "text": "오늘도 내 맘에 스며들죠",
+      "words": [
+        {
+          "start": 50.14,
+          "end": 51.0,
+          "word": " 오늘도"
+        },
+        {
+          "start": 51.0,
+          "end": 51.72,
+          "word": " 내"
+        },
+        {
+          "start": 51.72,
+          "end": 52.68,
+          "word": " 맘에"
+        },
+        {
+          "start": 52.68,
+          "end": 54.24,
+          "word": " 스며들죠"
+        }
+      ],
+      "english": "The day when I only drew you every day"
+    },
+    {
+      "start": 55.66,
+      "end": 56.64,
+      "text": "그대만 그려왔던 나를",
+      "words": [
+        {
+          "start": 55.66,
+          "end": 56.64,
+          "word": " 그대만"
+        },
+        {
+          "start": 56.64,
+          "end": 56.64,
+          "word": " 그려왔던"
+        },
+        {
+          "start": 56.64,
+          "end": 56.64,
+          "word": " 나를"
+        }
+      ],
+      "english": "It's going to sink into my heart today"
+    },
+    {
+      "start": 56.66,
+      "end": 59.5,
+      "text": "그대는 선물입니다",
+      "words": [
+        {
+          "start": 56.66,
+          "end": 57.72,
+          "word": " 그대는"
+        },
+        {
+          "start": 57.72,
+          "end": 59.5,
+          "word": " 선물입니다"
+        }
+      ],
+      "english": "You are a gift"
+    },
+    {
+      "start": 59.5,
+      "end": 63.38,
+      "text": "하늘이 내려준",
+      "words": [
+        {
+          "start": 59.5,
+          "end": 61.3,
+          "word": " 하늘이"
+        },
+        {
+          "start": 61.3,
+          "end": 63.38,
+          "word": " 내려준"
+        }
+      ],
+      "english": "I'll protect you in this world"
+    },
+    {
+      "start": 63.38,
+      "end": 70.48,
+      "text": "홀로 선 세상 속에 그댈 시켜줄게요",
+      "words": [
+        {
+          "start": 63.38,
+          "end": 64.38,
+          "word": " 홀로"
+        },
+        {
+          "start": 64.38,
+          "end": 64.86,
+          "word": " 선"
+        },
+        {
+          "start": 64.86,
+          "end": 65.5,
+          "word": " 세상"
+        },
+        {
+          "start": 65.5,
+          "end": 66.66,
+          "word": " 속에"
+        },
+        {
+          "start": 66.66,
+          "end": 67.6,
+          "word": " 그댈"
+        },
+        {
+          "start": 67.6,
+          "end": 70.48,
+          "word": " 시켜줄게요"
+        }
+      ],
+      "english": "Where the sky has fallen"
+    },
+    {
+      "start": 71.66,
+      "end": 75.16,
+      "text": "어느 날 문득 손바귀처럼",
+      "words": [
+        {
+          "start": 71.38,
+          "end": 72.08,
+          "word": " 어느"
+        },
+        {
+          "start": 72.08,
+          "end": 72.56,
+          "word": " 날"
+        },
+        {
+          "start": 72.56,
+          "end": 73.26,
+          "word": " 문득"
+        },
+        {
+          "start": 73.26,
+          "end": 75.16,
+          "word": " 손바귀처럼"
+        }
+      ],
+      "english": "I'll protect you"
+    },
+    {
+      "start": 75.16,
+      "end": 78.6,
+      "text": "내린 그대지만",
+      "words": [
+        {
+          "start": 75.16,
+          "end": 76.8,
+          "word": " 내린"
+        },
+        {
+          "start": 76.8,
+          "end": 78.6,
+          "word": " 그대지만"
+        }
+      ],
+      "english": "One day, you suddenly fell like a shower"
+    },
+    {
+      "start": 78.6,
+      "end": 81.84,
+      "text": "오늘도 불러봅니다",
+      "words": [
+        {
+          "start": 78.6,
+          "end": 79.88,
+          "word": " 오늘도"
+        },
+        {
+          "start": 79.88,
+          "end": 81.84,
+          "word": " 불러봅니다"
+        }
+      ],
+      "english": "I call you again today"
+    },
+    {
+      "start": 82.66,
+      "end": 85.36,
+      "text": "내겐 소중한",
+      "words": [
+        {
+          "start": 82.66,
+          "end": 83.76,
+          "word": " 내겐"
+        },
+        {
+          "start": 83.76,
+          "end": 85.36,
+          "word": " 소중한"
+        }
+      ],
+      "english": "You are precious to me"
+    },
+    {
+      "start": 85.36,
+      "end": 86.66,
+      "text": "사랑",
+      "words": [
+        {
+          "start": 85.36,
+          "end": 86.66,
+          "word": " 사랑"
+        }
+      ],
+      "english": "You are precious to me"
+    },
+    {
+      "start": 93.82,
+      "end": 96.62,
+      "text": "떨어지는 빗물이",
+      "words": [
+        {
+          "start": 93.82,
+          "end": 95.22,
+          "word": " 떨어지는"
+        },
+        {
+          "start": 95.22,
+          "end": 96.62,
+          "word": " 빗물이"
+        }
+      ],
+      "english": "My love"
+    },
+    {
+      "start": 96.62,
+      "end": 100.22,
+      "text": "어느새 날 깨우고",
+      "words": [
+        {
+          "start": 96.62,
+          "end": 97.96,
+          "word": " 어느새"
+        },
+        {
+          "start": 97.96,
+          "end": 98.36,
+          "word": " 날"
+        },
+        {
+          "start": 98.36,
+          "end": 100.22,
+          "word": " 깨우고"
+        }
+      ],
+      "english": "The falling rain"
+    },
+    {
+      "start": 100.22,
+      "end": 105.52,
+      "text": "그대 생각에 잠겨요",
+      "words": [
+        {
+          "start": 100.22,
+          "end": 101.98,
+          "word": " 그대"
+        },
+        {
+          "start": 101.98,
+          "end": 103.48,
+          "word": " 생각에"
+        },
+        {
+          "start": 103.48,
+          "end": 105.52,
+          "word": " 잠겨요"
+        }
+      ],
+      "english": "It's waking me up"
+    },
+    {
+      "start": 106.36,
+      "end": 108.96,
+      "text": "이제는 내게로 와요",
+      "words": [
+        {
+          "start": 106.36,
+          "end": 107.54,
+          "word": " 이제는"
+        },
+        {
+          "start": 107.54,
+          "end": 108.32,
+          "word": " 내게로"
+        },
+        {
+          "start": 108.32,
+          "end": 108.96,
+          "word": " 와요"
+        }
+      ],
+      "english": "It's locked in your thoughts"
+    },
+    {
+      "start": 108.96,
+      "end": 114.44,
+      "text": "언제 나처럼 기다리고 있죠",
+      "words": [
+        {
+          "start": 108.96,
+          "end": 109.8,
+          "word": " 언제"
+        },
+        {
+          "start": 109.8,
+          "end": 111.14,
+          "word": " 나처럼"
+        },
+        {
+          "start": 111.14,
+          "end": 112.84,
+          "word": " 기다리고"
+        },
+        {
+          "start": 112.84,
+          "end": 114.44,
+          "word": " 있죠"
+        }
+      ],
+      "english": "Come to me now"
+    },
+    {
+      "start": 114.44,
+      "end": 118.86,
+      "text": "그대 손을 꼭 잡아줄게요",
+      "words": [
+        {
+          "start": 114.44,
+          "end": 115.48,
+          "word": " 그대"
+        },
+        {
+          "start": 115.48,
+          "end": 116.36,
+          "word": " 손을"
+        },
+        {
+          "start": 116.36,
+          "end": 116.54,
+          "word": " 꼭"
+        },
+        {
+          "start": 116.54,
+          "end": 118.86,
+          "word": " 잡아줄게요"
+        }
+      ],
+      "english": "You are always waiting for me like me"
+    },
+    {
+      "start": 121.28,
+      "end": 124.08,
+      "text": "그대는 선물입니다",
+      "words": [
+        {
+          "start": 121.28,
+          "end": 122.68,
+          "word": " 그대는"
+        },
+        {
+          "start": 122.68,
+          "end": 124.08,
+          "word": " 선물입니다"
+        }
+      ],
+      "english": "I'm waiting for you"
+    },
+    {
+      "start": 124.08,
+      "end": 127.84,
+      "text": "하늘이 내려준",
+      "words": [
+        {
+          "start": 124.08,
+          "end": 125.78,
+          "word": " 하늘이"
+        },
+        {
+          "start": 125.78,
+          "end": 127.84,
+          "word": " 내려준"
+        }
+      ],
+      "english": "I'll hold your hand"
+    },
+    {
+      "start": 128.44,
+      "end": 134.98,
+      "text": "홀로 선 세상 속에 그댈 지켜줄게요",
+      "words": [
+        {
+          "start": 128.16,
+          "end": 128.86,
+          "word": " 홀로"
+        },
+        {
+          "start": 128.86,
+          "end": 129.32,
+          "word": " 선"
+        },
+        {
+          "start": 129.32,
+          "end": 129.96,
+          "word": " 세상"
+        },
+        {
+          "start": 129.96,
+          "end": 131.14,
+          "word": " 속에"
+        },
+        {
+          "start": 131.14,
+          "end": 132.08,
+          "word": " 그댈"
+        },
+        {
+          "start": 132.08,
+          "end": 134.98,
+          "word": " 지켜줄게요"
+        }
+      ],
+      "english": "You are a gift"
+    },
+    {
+      "start": 136.44,
+      "end": 139.62,
+      "text": "어느 날 문득 손바귀처럼",
+      "words": [
+        {
+          "start": 135.9,
+          "end": 136.6,
+          "word": " 어느"
+        },
+        {
+          "start": 136.6,
+          "end": 137.02,
+          "word": " 날"
+        },
+        {
+          "start": 137.02,
+          "end": 137.74,
+          "word": " 문득"
+        },
+        {
+          "start": 137.74,
+          "end": 139.62,
+          "word": " 손바귀처럼"
+        }
+      ],
+      "english": "I'll protect you in the world"
+    },
+    {
+      "start": 140.44,
+      "end": 143.12,
+      "text": "내린 그대지만",
+      "words": [
+        {
+          "start": 140.44,
+          "end": 141.28,
+          "word": " 내린"
+        },
+        {
+          "start": 141.28,
+          "end": 143.12,
+          "word": " 그대지만"
+        }
+      ],
+      "english": "where the sky has fallen"
+    },
+    {
+      "start": 143.12,
+      "end": 146.3,
+      "text": "오늘도 불러봅니다",
+      "words": [
+        {
+          "start": 143.12,
+          "end": 144.1,
+          "word": " 오늘도"
+        },
+        {
+          "start": 144.1,
+          "end": 146.3,
+          "word": " 불러봅니다"
+        }
+      ],
+      "english": "One day, suddenly like a shower"
+    },
+    {
+      "start": 147.12,
+      "end": 149.78,
+      "text": "내겐 소중한",
+      "words": [
+        {
+          "start": 147.12,
+          "end": 148.22,
+          "word": " 내겐"
+        },
+        {
+          "start": 148.22,
+          "end": 149.78,
+          "word": " 소중한"
+        }
+      ],
+      "english": "You came down like a rain"
+    },
+    {
+      "start": 149.78,
+      "end": 150.78,
+      "text": "사랑",
+      "words": [
+        {
+          "start": 149.78,
+          "end": 150.78,
+          "word": " 사랑"
+        }
+      ],
+      "english": "I call you again today"
+    },
+    {
+      "start": 152.12,
+      "end": 156.36,
+      "text": "잊고 싶던 아픈 기억들도",
+      "words": [
+        {
+          "start": 152.12,
+          "end": 153.18,
+          "word": " 잊고"
+        },
+        {
+          "start": 153.18,
+          "end": 154.04,
+          "word": " 싶던"
+        },
+        {
+          "start": 154.04,
+          "end": 155.0,
+          "word": " 아픈"
+        },
+        {
+          "start": 155.0,
+          "end": 156.36,
+          "word": " 기억들도"
+        }
+      ],
+      "english": "You are precious to me"
+    },
+    {
+      "start": 157.12,
+      "end": 162.62,
+      "text": "빗바물밖에 흘려보내면 돼요",
+      "words": [
+        {
+          "start": 157.12,
+          "end": 159.12,
+          "word": " 빗바물밖에"
+        },
+        {
+          "start": 159.12,
+          "end": 161.94,
+          "word": " 흘려보내면"
+        },
+        {
+          "start": 161.94,
+          "end": 162.62,
+          "word": " 돼요"
+        }
+      ],
+      "english": "The painful memories I wanted to forget"
+    },
+    {
+      "start": 164.12,
+      "end": 166.5,
+      "text": "때로는 지쳐도",
+      "words": [
+        {
+          "start": 164.12,
+          "end": 165.3,
+          "word": " 때로는"
+        },
+        {
+          "start": 165.3,
+          "end": 166.5,
+          "word": " 지쳐도"
+        }
+      ],
+      "english": "I just need to let them flow out of my ears"
+    },
+    {
+      "start": 168.12,
+      "end": 170.18,
+      "text": "하늘이 흐려도",
+      "words": [
+        {
+          "start": 168.12,
+          "end": 169.08,
+          "word": " 하늘이"
+        },
+        {
+          "start": 169.08,
+          "end": 170.18,
+          "word": " 흐려도"
+        }
+      ],
+      "english": "Sometimes I get tired"
+    },
+    {
+      "start": 170.18,
+      "end": 176.0,
+      "text": "내가 있다는 걸 잊지 말아요",
+      "words": [
+        {
+          "start": 170.18,
+          "end": 172.32,
+          "word": " 내가"
+        },
+        {
+          "start": 172.32,
+          "end": 173.2,
+          "word": " 있다는"
+        },
+        {
+          "start": 173.2,
+          "end": 174.14,
+          "word": " 걸"
+        },
+        {
+          "start": 174.14,
+          "end": 175.16,
+          "word": " 잊지"
+        },
+        {
+          "start": 175.16,
+          "end": 176.0,
+          "word": " 말아요"
+        }
+      ],
+      "english": "But I don't care"
+    },
+    {
+      "start": 178.42,
+      "end": 181.22,
+      "text": "그대는 사랑입니다",
+      "words": [
+        {
+          "start": 178.42,
+          "end": 179.82,
+          "word": " 그대는"
+        },
+        {
+          "start": 179.82,
+          "end": 181.22,
+          "word": " 사랑입니다"
+        }
+      ],
+      "english": "Even if the sky is cloudy"
+    },
+    {
+      "start": 182.18,
+      "end": 184.78,
+      "text": "하나뿐인 사랑",
+      "words": [
+        {
+          "start": 182.18,
+          "end": 183.74,
+          "word": " 하나뿐인"
+        },
+        {
+          "start": 183.74,
+          "end": 184.78,
+          "word": " 사랑"
+        }
+      ],
+      "english": "Don't forget that I'm here"
+    },
+    {
+      "start": 184.78,
+      "end": 192.44,
+      "text": "다시는 그대와 같은 사람 없을 테니",
+      "words": [
+        {
+          "start": 184.78,
+          "end": 186.7,
+          "word": " 다시는"
+        },
+        {
+          "start": 186.7,
+          "end": 187.86,
+          "word": " 그대와"
+        },
+        {
+          "start": 187.86,
+          "end": 188.5,
+          "word": " 같은"
+        },
+        {
+          "start": 188.5,
+          "end": 189.62,
+          "word": " 사람"
+        },
+        {
+          "start": 189.62,
+          "end": 190.92,
+          "word": " 없을"
+        },
+        {
+          "start": 190.92,
+          "end": 192.44,
+          "word": " 테니"
+        }
+      ],
+      "english": "You are love"
+    },
+    {
+      "start": 193.18,
+      "end": 194.82,
+      "text": "잊지 않아요",
+      "words": [
+        {
+          "start": 193.18,
+          "end": 194.12,
+          "word": " 잊지"
+        },
+        {
+          "start": 194.12,
+          "end": 194.82,
+          "word": " 않아요"
+        }
+      ],
+      "english": "The one and only love"
+    },
+    {
+      "start": 194.82,
+      "end": 197.36,
+      "text": "내 길 지웠던",
+      "words": [
+        {
+          "start": 194.82,
+          "end": 195.6,
+          "word": " 내"
+        },
+        {
+          "start": 195.6,
+          "end": 195.96,
+          "word": " 길"
+        },
+        {
+          "start": 195.96,
+          "end": 197.36,
+          "word": " 지웠던"
+        }
+      ],
+      "english": "There will never be anyone like you"
+    },
+    {
+      "start": 197.36,
+      "end": 199.54,
+      "text": "작은 기억 하나",
+      "words": [
+        {
+          "start": 197.36,
+          "end": 198.34,
+          "word": " 작은"
+        },
+        {
+          "start": 198.34,
+          "end": 199.08,
+          "word": " 기억"
+        },
+        {
+          "start": 199.08,
+          "end": 199.54,
+          "word": " 하나"
+        }
+      ],
+      "english": "I won't forget"
+    },
+    {
+      "start": 199.54,
+      "end": 200.48,
+      "text": "나도",
+      "words": [
+        {
+          "start": 199.54,
+          "end": 200.48,
+          "word": " 나도"
+        }
+      ],
+      "english": "The love that erased my memories"
+    },
+    {
+      "start": 201.54,
+      "end": 203.8,
+      "text": "어니도 새겨본 믿어",
+      "words": [
+        {
+          "start": 201.1,
+          "end": 201.8,
+          "word": " 어니도"
+        },
+        {
+          "start": 201.8,
+          "end": 203.28,
+          "word": " 새겨본"
+        },
+        {
+          "start": 203.28,
+          "end": 203.8,
+          "word": " 믿어"
+        }
+      ],
+      "english": "The little memories that I erased"
+    },
+    {
+      "start": 204.54,
+      "end": 206.82,
+      "text": "내겐 선물이",
+      "words": [
+        {
+          "start": 204.54,
+          "end": 205.56,
+          "word": " 내겐"
+        },
+        {
+          "start": 205.56,
+          "end": 206.82,
+          "word": " 선물이"
+        }
+      ],
+      "english": "I can't believe it anywhere"
+    },
+    {
+      "start": 209.2,
+      "end": 210.6,
+      "text": "그대",
+      "words": [
+        {
+          "start": 209.2,
+          "end": 210.6,
+          "word": " 그대"
+        }
+      ],
+      "english": "You are a gift to me"
+    },
+    {
+      "start": 229.78,
+      "end": 231.2,
+      "text": "나의 사랑",
+      "words": [
+        {
+          "start": 229.78,
+          "end": 231.18,
+          "word": " 나의"
+        },
+        {
+          "start": 231.18,
+          "end": 231.2,
+          "word": " 사랑"
+        }
+      ],
+      "english": "You are precious to me"
+    },
+    {
+      "start": 232.54,
+      "end": 233.0,
+      "text": "내게로 와요",
+      "words": [
+        {
+          "start": 232.16,
+          "end": 232.86,
+          "word": " 내게로"
+        },
+        {
+          "start": 232.86,
+          "end": 233.0,
+          "word": " 와요"
+        }
+      ],
+      "english": "You are the only one"
+    },
+    {
+      "start": 233.54,
+      "end": 233.74,
+      "text": "오늘 나에게",
+      "words": [
+        {
+          "start": 233.04,
+          "end": 233.74,
+          "word": " 오늘"
+        },
+        {
+          "start": 233.74,
+          "end": 233.74,
+          "word": " 나에게"
+        }
+      ],
+      "english": "I can't believe it"
+    }
+  ]
+}

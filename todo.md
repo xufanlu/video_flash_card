@@ -1,0 +1,1 @@
+[]make the whisper model general , to take different songs ,and make proper folder. 

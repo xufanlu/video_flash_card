@@ -1,0 +1,42 @@
+:root {
+  --bg: #f4f6f9;
+  --bg-card: #ffffff;
+  --border: #dde2eb;
+  --text: #141820;
+  --text-muted: #5a6474;
+  --accent: #2563ab;
+  --accent-soft: rgba(37, 99, 171, 0.1);
+  --radius: 14px;
+  --font-ko: "Noto Sans KR", system-ui, sans-serif;
+  --font-en: "Source Serif 4", Georgia, serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ko);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+button {
+  font-family: inherit;
+}
+
+input[type="file"] {
+  font-family: inherit;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}

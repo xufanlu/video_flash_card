@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/koreanjamochart.tsx","./src/data/grammarhints.ts","./src/data/jamochart.ts","./src/data/sentences.ts","./src/data/wordglosses.ts","./src/utils/jamobreakdown.ts","./sudden_shower_transcription.json"],"version":"5.6.3"}
