@@ -13,7 +13,7 @@ import {
 import styles from "./App.module.css";
 import { KoreanJamoChart } from "./components/KoreanJamoChart";
 
-const DEFAULT_VIDEO_SRC = "/sudden_shower_high_quality.mp4";
+const DEFAULT_VIDEO_SRC = "/public/sudden_shower_high_quality.mp4";
 
 /** Pause slightly before the playback stop time so the decoder rarely spills past it. */
 const WORD_CLIP_END_EPS_SEC = 0.018;
