@@ -90,6 +90,3 @@ Point `src/data/sentences.ts` at your new JSON (or replace `sudden_shower_transc
 
 This project is intended **only for personal learning**. Do not use it for commercial purposes, public distribution of bundled media, or any other use that would conflict with rights holders’ copyrights or licenses; obtain proper permissions before sharing or publishing any derived work.
 
-## License
-
-This repository does not specify a license; add one if you plan to distribute the project.
