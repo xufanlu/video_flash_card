@@ -236,8 +236,21 @@ export function App() {
       if (!followSegmentRef.current) return;
       const chunks = sentencesRef.current;
       const t = effectivePlaybackClockTime(v, chunks);
-      const i = lineIndexForPlaybackTime(t, chunks);
-      setIndex((cur) => (cur !== i ? i : cur));
+      let i = lineIndexForPlaybackTime(t, chunks);
+      const cur = indexRef.current;
+      const curSeg = chunks[cur];
+      /**
+       * If the next segment shares a boundary timestamp with this one's end, a seek to
+       * `endSec` (e.g. after a word clip) maps to the next line — keep the current card.
+       */
+      if (
+        curSeg &&
+        i > cur &&
+        t <= curSeg.endSec + 1e-3
+      ) {
+        i = cur;
+      }
+      setIndex((prev) => (prev !== i ? i : prev));
     };
 
     const onTimeUpdate = () => {
@@ -350,7 +363,19 @@ export function App() {
       typeof v.duration === "number" && Number.isFinite(v.duration) && v.duration > 0
         ? v.duration
         : null;
-    const { startAt, playUntil } = clampWordClipRange(w, dur);
+    let { startAt, playUntil } = clampWordClipRange(w, dur);
+    if (followSegmentRef.current) {
+      const seg = sentencesRef.current[indexRef.current];
+      if (seg && Number.isFinite(seg.endSec)) {
+        playUntil = Math.min(playUntil, seg.endSec);
+        if (playUntil <= startAt) {
+          playUntil = Math.min(
+            seg.endSec,
+            startAt + WORD_CLIP_MIN_DURATION_SEC + WORD_CLIP_END_EPS_SEC,
+          );
+        }
+      }
+    }
     wordPlayUntilRef.current = playUntil;
 
     const stopClip = () => {
