@@ -4,6 +4,8 @@ A small **React + Vite** app for studying Korean from a synchronized music video
 
 The sample content targets the track *Sudden Shower* (transcript and timings come from a local Whisper run).
 
+**Deployed site:** [https://xufanlu.github.io/video_flash_card/](https://xufanlu.github.io/video_flash_card/)
+
 ## Features
 
 - **Video + transcript sync**: seek and autoplay segments; optional “follow” mode keeps the current line aligned with playback.

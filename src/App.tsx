@@ -364,16 +364,25 @@ export function App() {
         ? v.duration
         : null;
     let { startAt, playUntil } = clampWordClipRange(w, dur);
-    if (followSegmentRef.current) {
-      const seg = sentencesRef.current[indexRef.current];
-      if (seg && Number.isFinite(seg.endSec)) {
-        playUntil = Math.min(playUntil, seg.endSec);
-        if (playUntil <= startAt) {
-          playUntil = Math.min(
-            seg.endSec,
-            startAt + WORD_CLIP_MIN_DURATION_SEC + WORD_CLIP_END_EPS_SEC,
-          );
-        }
+    const seg = sentencesRef.current[indexRef.current];
+    /**
+     * Whisper often puts the first word’s start slightly before the segment start. Seeking there
+     * maps the playhead to the previous flash card via `lineIndexForPlaybackTime` on `seeked`.
+     */
+    if (seg && Number.isFinite(seg.startSec)) {
+      startAt = Math.max(startAt, seg.startSec);
+    }
+    if (
+      followSegmentRef.current &&
+      seg &&
+      Number.isFinite(seg.endSec)
+    ) {
+      playUntil = Math.min(playUntil, seg.endSec);
+      if (playUntil <= startAt) {
+        playUntil = Math.min(
+          seg.endSec,
+          startAt + WORD_CLIP_MIN_DURATION_SEC + WORD_CLIP_END_EPS_SEC,
+        );
       }
     }
     wordPlayUntilRef.current = playUntil;
